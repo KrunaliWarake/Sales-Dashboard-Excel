@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard (Excel Project)
+#  Sales Dashboard (Excel Project)
 
 ##  Project Overview
 
